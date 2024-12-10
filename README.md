@@ -20,7 +20,10 @@ Este projeto é uma ferramenta prática para:
 ## Requisitos
 
 - Python 3.7 ou superior
-- Bibliotecas necessárias (listadas em `requirements.txt`)
+- Bibliotecas necessárias: cryptography
+
+No terminal :> pip install cryptography
+
 
 ## Como Usar
 
